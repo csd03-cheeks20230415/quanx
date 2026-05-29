@@ -106,5 +106,8 @@ host, github.com, 代理网站
 host, github.githubassets.com, 代理网站
 host-suffix, github.com, 代理网站
 
+#bangumi
+host-suffix, bgm.tv, 代理网站
+host-suffix, bangumi.tv, 代理网站
 
 host, yfamilys.com, 代理网站
