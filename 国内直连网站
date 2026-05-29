@@ -63,8 +63,10 @@ host-suffix, youku.com, 国内直连网站
 host-wildcard, *.cn, 国内直连网站
 ip-asn, 132203, 国内直连网站
 user-agent, WeChat*, 国内直连网站
-host-suffix, snssdk.com, 国内直连网站
-host-suffix, hdslb.com, 国内直连网站
-host-suffix, autonavi.com, 国内直连网站
+host-suffix, snssdk.com, 国内直连网站 #抖音SDK
+host-suffix, hdslb.com, 国内直连网站 #bilibilisdk
+host-suffix, autonavi.com, 国内直连网站 #高德地图
 
 host, registry.npmmirror.com, 国内直连网站
+
+host-suffix, hbooker.com, 国内直连网站 #欢乐书客、刺猬猫
