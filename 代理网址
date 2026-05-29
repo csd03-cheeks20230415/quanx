@@ -104,3 +104,7 @@ host, raw.githubusercontent.com, 代理网站
 host, release-assets.githubusercontent.com, 代理网站
 host, github.com, 代理网站
 host, github.githubassets.com, 代理网站
+host-suffix, github.com, 代理网站
+
+
+host, yfamilys.com, 代理网站
