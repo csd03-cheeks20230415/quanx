@@ -5,7 +5,6 @@ host, 51cg1.com, 代理网站
 host, 91pinse.com, 代理网站
 host, alicesw.com, 代理网站
 host, api.x.com, 代理网站
-host, app-api.pixiv.net, 代理网站
 host, asmr.gay, 代理网站
 host, bad.news, 代理网站
 host, cdn.hdcdn.online, 代理网站
@@ -16,18 +15,16 @@ host, chat-ws.x.com, 代理网站
 host, com.uptodown, 代理网站
 host, comic18j-robo.me, 代理网站
 host, ddgksf2013.top, 代理网站
-host, dns.google, 代理网站
+
 host, dy.moeazusa.app, 代理网站
 host, e-hentai.org, 代理网站
 host, fast.v2ex.com, 代理网站
-host, github.com, 代理网站
-host, github.githubassets.com, 代理网站
+
 host, gura.homes, 代理网站
 host, hanime.tv, 代理网站
 host, hanime-cdn.com, 代理网站
 host, hsex.tv, 代理网站
 host, i.hdcdn.online, 代理网站
-host, i.pximg.net, 代理网站
 host, i.ytimg.com, 代理网站
 host, i0.img2ipfs.com, 代理网站
 host, img.321cdn.com, 代理网站
@@ -40,15 +37,10 @@ host, missav.com, 代理网站
 host, missav.ws, 代理网站
 host, mmdfans.net, 代理网站
 host, moeli-desu.com, 代理网站
-host, oauth.secure.pixiv.net, 代理网站
 host, p.sda1.dev, 代理网站
 host, pixel24f001.xyz, 代理网站
-host, pximg.net, 代理网站
 host, quantumult.app, 代理网站
-host, raw.githubusercontent.com, 代理网站
 host, receiptcheck.quantumult.app, 代理网站
-host, release-assets.githubusercontent.com, 代理网站
-host, s.pximg.net, 代理网站
 host, sharkcloud.app, 代理网站
 host, static.91pinse.com, 代理网站
 host, textmechanic.com, 代理网站
@@ -65,7 +57,6 @@ host, wiki.repcz.link, 代理网站
 host, www.asmr.pw, 代理网站
 host, www.asmrgay.com, 代理网站
 host, www.asmrgay.org, 代理网站
-host, www.pixiv.net, 代理网站
 host, www.xvideos.com, 代理网站
 host, yt3.ggpht.com, 代理网站
 host, zh.wikipedia.org, 代理网站
@@ -75,27 +66,41 @@ host-suffix, asmr-200.com, 代理网站
 host-suffix, asmr-300.com, 代理网站
 host-suffix, cdn202511.com, 代理网站
 host-suffix, cdn202528.com, 代理网站
-host-suffix, cn.pornhub.com, 代理网站
 host-suffix, discord.com, 代理网站
 host-suffix, discord.gg, 代理网站
 host-suffix, discord.media, 代理网站
 host-suffix, discordapp.com, 代理网站
 host-suffix, discordapp.net, 代理网站
+host-suffix, gstatic.com, 代理网站
+host-suffix, hxcy.top, 代理网站
+host-suffix, jmcomic-zzz.one, 代理网站
+host-suffix, shadowrocketsub.com, 代理网站
+host-suffix, twimg.com, 代理网站
+host-suffix, twitter.com, 代理网站
+host-suffix, wikimedia.org, 代理网站
+host-suffix, youtube.com, 代理网站
+host-wildcard, *.iwara.tv, 代理网站
+#pixiv
+host, i.pximg.net, 代理网站
+host, s.pximg.net, 代理网站
+host, pximg.net, 代理网站
+host, app-api.pixiv.net, 代理网站
+host, www.pixiv.net, 代理网站
+host, oauth.secure.pixiv.net, 代理网站
+#google
+host, dns.google, 代理网站
+host-suffix, withgoogle.com, 代理网站
 host-suffix, google.com, 代理网站
 host-suffix, google.com.hk, 代理网站
 host-suffix, googleapis.com, 代理网站
 host-suffix, googletagmanager.com, 代理网站
 host-suffix, googleusercontent.com, 代理网站
 host-suffix, googlevideo.com, 代理网站
-host-suffix, gstatic.com, 代理网站
-host-suffix, hxcy.top, 代理网站
-host-suffix, jmcomic-zzz.one, 代理网站
+#pornhub
 host-suffix, pornhub.com, 代理网站
-host-suffix, shadowrocketsub.com, 代理网站
-host-suffix, twimg.com, 代理网站
-host-suffix, twitter.com, 代理网站
-host-suffix, wikimedia.org, 代理网站
-host-suffix, withgoogle.com, 代理网站
-host-suffix, youtube.com, 代理网站
-host-wildcard, *.iwara.tv, 代理网站
-host, raw.githubusercontent.com,代理网站
+host-suffix, cn.pornhub.com, 代理网站
+#github
+host, raw.githubusercontent.com, 代理网站
+host, release-assets.githubusercontent.com, 代理网站
+host, github.com, 代理网站
+host, github.githubassets.com, 代理网站
