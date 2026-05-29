@@ -4,7 +4,7 @@ host, cdn.ampproject.org, 国内直连网站
 host, cupfox.app, 国内直连网站
 host, m.52qianmei.com, 国内直连网站
 host, ma5-normal-lf.zijieapi.com, 国内直连网站
-host, pic1.zhimg.com, 国内直连网站
+
 host, render.ecombdpage.com, 国内直连网站
 host, web.agespa-01.com, 国内直连网站
 host-suffix, 178.com, 国内直连网站
@@ -17,7 +17,6 @@ host-suffix, aliyuncs.com, 国内直连网站
 host-suffix, amap.com, 国内直连网站
 host-suffix, anjuke.com, 国内直连网站
 host-suffix, baidu.com, 国内直连网站
-host-suffix, bbs.nga.cn, 国内直连网站
 host-suffix, biliapi.com, 国内直连网站
 host-suffix, biliapi.net, 国内直连网站
 host-suffix, bilibili.com, 国内直连网站
@@ -27,7 +26,6 @@ host-suffix, bytedanceapi.com, 国内直连网站
 host-suffix, bytednsdoc.com, 国内直连网站
 host-suffix, bytegecko.com, 国内直连网站
 host-suffix, ccb.com, 国内直连网站
-host-suffix, cdn.sdb.com.cn, 国内直连网站
 host-suffix, chinaz.com, 国内直连网站
 host-suffix, dbankcdn.com, 国内直连网站
 host-suffix, doubao.com, 国内直连网站
@@ -44,26 +42,20 @@ host-suffix, huawei.com, 国内直连网站
 host-suffix, idouyinvod.com, 国内直连网站
 host-suffix, jd.com, 国内直连网站
 host-suffix, jdpay.com, 国内直连网站
-host-suffix, jk.cn, 国内直连网站
 host-suffix, kimi.com, 国内直连网站
-host-suffix, mdn.alipayobjects.com, 国内直连网站
+host-suffix, alipayobjects.com, 国内直连网站
 host-suffix, pddpic.com, 国内直连网站
-host-suffix, pingan.com.cn, 国内直连网站
-host-suffix, powerchina.cn, 国内直连网站
+
 host-suffix, qianji.app, 国内直连网站
 host-suffix, qianjiapp.com, 国内直连网站
-host-suffix, qlogo.cn, 国内直连网站
-host-suffix, qpic.cn, 国内直连网站
+host-suffix, zhimg.com, 国内直连网站
 host-suffix, qq.com, 国内直连网站
-host-suffix, qq.com.cn, 国内直连网站
-host-suffix, sgcc.com.cn, 国内直连网站
-host-suffix, sinaimg.cn, 国内直连网站
+
 host-suffix, toutiaoapi.com, 国内直连网站
 host-suffix, toutiaoimg.com, 国内直连网站
 host-suffix, toutiaostatic.com, 国内直连网站
-host-suffix, typhoon.slt.zj.gov.cn, 国内直连网站
-host-suffix, wechatpay.cn, 国内直连网站
-host-suffix, weibo.cn, 国内直连网站
+
+
 host-suffix, weibo.com, 国内直连网站
 host-suffix, xhscdn.com, 国内直连网站
 host-suffix, xiaohongshu.com, 国内直连网站
