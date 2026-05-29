@@ -70,3 +70,7 @@ host-suffix, autonavi.com, 国内直连网站 #高德地图
 host, registry.npmmirror.com, 国内直连网站
 
 host-suffix, hbooker.com, 国内直连网站 #欢乐书客、刺猬猫
+#平安银行壹钱包
+host-suffix, yqbimg.net, 国内直连网站 
+host-suffix, yqb.com, 国内直连网站
+host-suffix, 1qianbao.com, 国内直连网站
