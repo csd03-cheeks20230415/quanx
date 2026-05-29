@@ -8,3 +8,4 @@ host-suffix, umeng.com, reject
 host-suffix, umengcloud.com, reject
 host-suffix, applovin.com, reject
 host, www.googleadservices.com, reject
+host, dig.bdurl.net, reject
