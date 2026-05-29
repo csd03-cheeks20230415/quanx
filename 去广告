@@ -4,3 +4,5 @@ host, t.nettrck.store, reject
 host, www.gravatar.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, pica-ad-api.diwodiwo.xyz, reject
+host-suffix, umeng.com, reject
+host-suffix, umengcloud.com, reject
