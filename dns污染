@@ -46,3 +46,9 @@ host-suffix, spankbang.com, dns污染
 host-suffix, wnacg.com, dns污染
 host-suffix, xvideos-cdn.com, dns污染
 host, files.catbox.moe, dns污染
+
+host-suffix, github.io, dns污染
+host-suffix, ffuavtlceo.in, dns污染
+host-suffix, go2778.com, dns污染
+
+host, cloudflare-dns.com, dns污染
