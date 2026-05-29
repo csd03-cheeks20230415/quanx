@@ -1,14 +1,6 @@
-# NAME: Telegram
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/Telegram/Telegram.list
-# UPDATED: 2025-09-10 02:08:26
-# HOST: 2
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 22
-# IP-ASN: 5
-# IP-CIDR: 6
-# IP6-CIDR: 4
-# TOTAL: 40
+# 原始来源https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/Telegram/Telegram.list
+# 原始来源更新时间 2025-09-10 02:08:26
+
 HOST,api.imem.app,Telegram
 HOST,api.swiftgram.app,Telegram
 HOST-SUFFIX,cdn-telegram.org,Telegram
