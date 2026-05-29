@@ -98,3 +98,4 @@ host-suffix, wikimedia.org, 代理网站
 host-suffix, withgoogle.com, 代理网站
 host-suffix, youtube.com, 代理网站
 host-wildcard, *.iwara.tv, 代理网站
+host, raw.githubusercontent.com,代理网站
