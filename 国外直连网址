@@ -25,3 +25,4 @@ host-wildcard, *.moe, 国外直连网站
 host-wildcard, *.ru, 国外直连网站
 host-wildcard, *.site, 国外直连网站
 host-wildcard, *.xyz, 国外直连网站
+host-suffix, mzstatic.com,国外直连网站  #苹果服务器
