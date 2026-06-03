@@ -111,3 +111,8 @@ host-suffix, bgm.tv, 代理网站
 host-suffix, bangumi.tv, 代理网站
 
 host, yfamilys.com, 代理网站
+#巴哈姆特
+host, gamer.com.tw, 代理网站
+host, www.mrds66.com, 代理网站
+host-suffix, proton.me, 代理网站
+host-suffix, protonmail.ch, 代理网站
