@@ -52,3 +52,7 @@ host-suffix, ffuavtlceo.in, dns污染
 host-suffix, go2778.com, dns污染
 
 host, cloudflare-dns.com, dns污染
+host, wnacg01.link, dns污染
+host, www.myip.com, dns污染
+host, manhuapica.com, dns污染
+host, ocsp.digicert.com, dns污染
