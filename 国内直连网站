@@ -74,3 +74,23 @@ host-suffix, hbooker.com, 国内直连网站 #欢乐书客、刺猬猫
 host-suffix, yqbimg.net, 国内直连网站 
 host-suffix, yqb.com, 国内直连网站
 host-suffix, 1qianbao.com, 国内直连网站
+#知乎
+host-suffix, zhihu.com, 国内直连网站
+#高德地图
+host-suffix, aimap.com, 国内直连网站
+host-suffix, alibabausercontent.com, 国内直连网站
+#爱奇艺
+host-suffix, iqiyi.com, 国内直连网站
+
+
+host-suffix, dpfile.com, 国内直连网站
+host-suffix, ele.me, 国内直连网站
+host-suffix, browser-intake-us5-datadoghq.com, 国内直连网站
+host-suffix, jsdmirror.com, 国内直连网站
+host-suffix, qweather.com, 国内直连网站
+host, status.rapidssl.com, 国内直连网站
+host-suffix, kwd.inkuai.com, 国内直连网站
+host-suffix, kwaizt.com, 国内直连网站
+host-suffix, zijieapi.com, 国内直连网站
+host-suffix, lepudding.com, 国内直连网站
+host-suffix, kwimgs.com, 国内直连网站
