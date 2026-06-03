@@ -9,3 +9,4 @@ host-suffix, umengcloud.com, reject
 host-suffix, applovin.com, reject
 host, www.googleadservices.com, reject
 host, dig.bdurl.net, reject
+host, pixon.ads-pixiv.net, reject
