@@ -56,3 +56,16 @@ host, wnacg01.link, dns污染
 host, www.myip.com, dns污染
 host, manhuapica.com, dns污染
 host, ocsp.digicert.com, dns污染
+host, p.69shuba.tw, dns污染
+host, www.blue-plus.net, dns污染
+host, www.cdngwc.club, dns污染
+host-suffix, cloudflarestorage.com, dns污染
+host, hl1.onlyhentaistuff.com, dns污染
+host, www.onlyhentaistuff.com, dns污染
+host-suffix, 127.net, dns污染
+host, bikawebapp.com, dns污染
+host, t.tutu.to, dns污染
+host-suffix, y4er.com, dns污染
+host, unpkg.com, dns污染
+host, weavatar.com, dns污染
+ip-cidr, 174.127.195.0/16, dns污染
