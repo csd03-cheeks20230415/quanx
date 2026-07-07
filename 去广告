@@ -313,3 +313,7 @@ host,www.googletagmanager.com,reject
 host,hpd.baidu.com,reject
 host,sp2.baidu.com,reject
 host,data.bilibili.com,reject
+host, appdata.q1.com, reject
+host, www.google-analytics.com, reject
+host, mon.toutiaocloud.com, reject
+host-suffix, anythinktech.com, reject
