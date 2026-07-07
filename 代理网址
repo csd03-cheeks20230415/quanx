@@ -1,165 +1,155 @@
-host, 001.sisurl.com, 代理网站
-host, 18j.tv, 代理网站
-host, 233233.fun, 代理网站
-host, 51cg1.com, 代理网站
-host, 91pinse.com, 代理网站
-host, alicesw.com, 代理网站
-host, api.x.com, 代理网站
-host, asmr.gay, 代理网站
-host, bad.news, 代理网站
-host, cdn.hdcdn.online, 代理网站
-host, cdn.staticstack.net, 代理网站
-host, cdn3.ldstatic.com, 代理网站
-host, cdn-image.fplayer.cc, 代理网站
-host, chat-ws.x.com, 代理网站
-host, com.uptodown, 代理网站
-host, comic18j-robo.me, 代理网站
-host, ddgksf2013.top, 代理网站
+# ==================== 谷歌 / 微软 / 基础网络服务 ====================
+host, dns.google, 代理网站
+host, www.recaptcha.net, 代理网站
+host-suffix, google.com, 代理网站
+host-suffix, googleapis.com, 代理网站
+host-suffix, googleusercontent.com, 代理网站
+host-suffix, googlevideo.com, 代理网站
+host-suffix, gstatic.com, 代理网站
+host-suffix, withgoogle.com, 代理网站
+host-suffix, googletagmanager.com, 代理网站
+host, dash.cloudflare.com, 代理网站
 
-host, dy.moeazusa.app, 代理网站
-host, e-hentai.org, 代理网站
-host, fast.v2ex.com, 代理网站
-
-host, gura.homes, 代理网站
-host, hanime.tv, 代理网站
-host, hanime-cdn.com, 代理网站
-host, hsex.tv, 代理网站
-host, i.hdcdn.online, 代理网站
-host, i.ytimg.com, 代理网站
-host, i0.img2ipfs.com, 代理网站
-host, img.321cdn.com, 代理网站
-host, img.kemono.su, 代理网站
-host, imgbox.com, 代理网站
-host, laowang.vip, 代理网站
-host, limbopro.com, 代理网站
-host, linux.do, 代理网站
-host, missav.com, 代理网站
-host, missav.ws, 代理网站
-host, mmdfans.net, 代理网站
-host, moeli-desu.com, 代理网站
-host, p.sda1.dev, 代理网站
-host, pixel24f001.xyz, 代理网站
-host, quantumult.app, 代理网站
-host, receiptcheck.quantumult.app, 代理网站
-host, sharkcloud.app, 代理网站
-host, static.91pinse.com, 代理网站
-host, textmechanic.com, 代理网站
-host, theporndude.com, 代理网站
-host, tupian.li, 代理网站
-host, tupptu.cc, 代理网站
-host, twitter-ero-video-ranking.com, 代理网站
-host, uptodown.app, 代理网站
-host, uptodown.com, 代理网站
-host, uptodown.io, 代理网站
-host, uptodown.net, 代理网站
+# ==================== GitHub / 技术 / 独立社区 ====================
+host-suffix, github.com, 代理网站
+host, github.githubassets.com, 代理网站
+host, raw.githubusercontent.com, 代理网站
+host, release-assets.githubusercontent.com, 代理网站
 host, v2ex.com, 代理网站
-host, wiki.repcz.link, 代理网站
-host, www.asmr.pw, 代理网站
-host, www.asmrgay.com, 代理网站
-host, www.asmrgay.org, 代理网站
-host, www.xvideos.com, 代理网站
+host, fast.v2ex.com, 代理网站
+host, linux.do, 代理网站
+host, com.uptodown, 代理网站
+host-suffix, uptodown.com, 代理网站
+host-suffix, uptodown.app, 代理网站
+host-suffix, uptodown.io, 代理网站
+host-suffix, uptodown.net, 代理网站
+
+# ==================== 知名大型社交 / 媒体 / 百科 ====================
+host-suffix, x.com, 代理网站
+host-suffix, twitter.com, 代理网站
+host-suffix, twimg.com, 代理网站
+host, twitter-ero-video-ranking.com, 代理网站
+host-suffix, youtube.com, 代理网站
+host, i.ytimg.com, 代理网站
 host, yt3.ggpht.com, 代理网站
-host, zh.wikipedia.org, 代理网站
-host-suffix, asmr.one, 代理网站
-host-suffix, asmr-100.com, 代理网站
-host-suffix, asmr-200.com, 代理网站
-host-suffix, asmr-300.com, 代理网站
-host-suffix, cdn202511.com, 代理网站
-host-suffix, cdn202528.com, 代理网站
 host-suffix, discord.com, 代理网站
 host-suffix, discord.gg, 代理网站
 host-suffix, discord.media, 代理网站
 host-suffix, discordapp.com, 代理网站
 host-suffix, discordapp.net, 代理网站
-host-suffix, gstatic.com, 代理网站
-host-suffix, hxcy.top, 代理网站
-host-suffix, jmcomic-zzz.one, 代理网站
-host-suffix, shadowrocketsub.com, 代理网站
-host-suffix, twimg.com, 代理网站
-host-suffix, twitter.com, 代理网站
-host-suffix, wikimedia.org, 代理网站
-host-suffix, youtube.com, 代理网站
-host-wildcard, *.iwara.tv, 代理网站
-#pixiv
-host, i.pximg.net, 代理网站
-host, s.pximg.net, 代理网站
-host, pximg.net, 代理网站
-host, app-api.pixiv.net, 代理网站
-host, www.pixiv.net, 代理网站
-host, oauth.secure.pixiv.net, 代理网站
-#google
-host, dns.google, 代理网站
-host-suffix, withgoogle.com, 代理网站
-host-suffix, google.com, 代理网站
-host-suffix, google.com.hk, 代理网站
-host-suffix, googleapis.com, 代理网站
-host-suffix, googletagmanager.com, 代理网站
-host-suffix, googleusercontent.com, 代理网站
-host-suffix, googlevideo.com, 代理网站
-#pornhub
-host-suffix, pornhub.com, 代理网站
-host-suffix, cn.pornhub.com, 代理网站
-#github
-host, raw.githubusercontent.com, 代理网站
-host, release-assets.githubusercontent.com, 代理网站
-host, github.com, 代理网站
-host, github.githubassets.com, 代理网站
-host-suffix, github.com, 代理网站
-
-#bangumi
-host-suffix, bgm.tv, 代理网站
-host-suffix, bangumi.tv, 代理网站
-
-host, yfamilys.com, 代理网站
-#巴哈姆特
-host, gamer.com.tw, 代理网站
-host, www.mrds66.com, 代理网站
+host-suffix, reddit.com, 代理网站
+host, www.redditstatic.com, 代理网站
 host-suffix, proton.me, 代理网站
 host-suffix, protonmail.ch, 代理网站
-
-host, 69shuba.tw, 代理网站
-host, bbs.binmt.cc, 代理网站
-host-suffix, uptodown.app, 代理网站
-host-suffix, uptodown.io, 代理网站
-host-suffix, uptodown.net, 代理网站
-host, hanimeone.me, 代理网站
-host, auth.novelia.cc, 代理网站
-host, n.novelia.cc, 代理网站
-host, javtiful.com, 代理网站
-host, www.alicesw.com, 代理网站
-host, wataa.io, 代理网站
-host, video.pmvhaven.com, 代理网站
-host, pmvhaven.com, 代理网站
-host, img.cdn1.vip, 代理网站
-host, help.x.com, 代理网站
-host, cf.090227.xyz, 代理网站
-host-suffix, cmliussss.com, 代理网站
-host, asmr.121231234.xyz, 代理网站
+host-suffix, wikimedia.org, 代理网站
+host, zh.wikipedia.org, 代理网站
 host, www.blogger.com, 代理网站
 host, erolns.blogspot.com, 代理网站
-host, www.redditstatic.com, 代理网站
-host-suffix, reddit.com, 代理网站
-host, jx.wuzhoupai.com, 代理网站
+
+# ==================== ACGN 动漫 / 二次元 / 社区 ====================
+host-suffix, gamer.com.tw, 代理网站
+host-suffix, bgm.tv, 代理网站
+host-suffix, bangumi.tv, 代理网站
+host-suffix, pixv.net, 代理网站
+host-suffix, pximg.net, 代理网站
+host, accounts.pixiv.net, 代理网站
+host, app-api.pixiv.net, 代理网站
+host, www.pixiv.net, 代理网站
+host, www.dlsite.com, 代理网站
+host, img.dlsite.jp, 代理网站
+host-wildcard, *.iwara.tv, 代理网站
+host, mmdfans.net, 代理网站
+host, moeli-desu.com, 代理网站
+host, dy.moeazusa.app, 代理网站
+host, gura.homes, 代理网站
 host, ageapi.omwjhz.com, 代理网站
-host, hub.kelee.one, 代理网站
-host, dash.cloudflare.com, 代理网站
-host, stats.nextinnet.com, 代理网站
-host, urlimage.cc, 代理网站
+
+# ==================== ASMR / 音频社区 ====================
+host-suffix, asmr.one, 代理网站
+host-suffix, asmr-100.com, 代理网站
+host-suffix, asmr-200.com, 代理网站
+host-suffix, asmr-300.com, 代理网站
+host, asmrmoon.com, 代理网站
 host, mooncdn.asmrmoon.com, 代理网站
 host, artalk.asmrmoon.com, 代理网站
-host, asmrmoon.com, 代理网站
-host, img.dlsite.jp, 代理网站
-host, www.dlsite.com, 代理网站
+host, asmr.gay, 代理网站
+host, www.asmrgay.com, 代理网站
+host, www.asmrgay.org, 代理网站
+host, www.asmr.pw, 代理网站
+host, asmr.121231234.xyz, 代理网站
+
+# ==================== 成人内容 / 绅士 / 漫画 ====================
+host-suffix, pornhub.com, 代理网站
+host, www.xvideos.com, 代理网站
+host, e-hentai.org, 代理网站
+host, missav.com, 代理网站
+host, missav.ws, 代理网站
+host, hanime.tv, 代理网站
+host, hanime-cdn.com, 代理网站
+host, hanimeone.me, 代理网站
+host, hsex.tv, 代理网站
+host, javtiful.com, 代理网站
+host, 51cg1.com, 代理网站
+host, 91pinse.com, 代理网站
+host, static.91pinse.com, 代理网站
+host, 18j.tv, 代理网站
+host, 001.sisurl.com, 代理网站
+host, theporndude.com, 代理网站
+host, video.pmvhaven.com, 代理网站
+host, pmvhaven.com, 代理网站
+host, comic18j-robo.me, 代理网站
+host-suffix, jmcomic-zzz.one, 代理网站
+host, img.kemono.su, 代理网站
+
+# ==================== 代理工具 / 规则相关业务 ====================
+host, quantumult.app, 代理网站
+host, receiptcheck.quantumult.app, 代理网站
+host, sharkcloud.app, 代理网站
+host-suffix, shadowrocketsub.com, 代理网站
+host, ddgksf2013.top, 代理网站
+host, limbopro.com, 代理网站
+host, hub.kelee.one, 代理网站
+host-suffix, cmliussss.com, 代理网站
+
+# ==================== 网络网盘 / 图床 / CDN ====================
+host, imgbox.com, 代理网站
+host, p.sda1.dev, 代理网站
+host, tupian.li, 代理网站
+host, tupptu.cc, 代理网站
+host, urlimage.cc, 代理网站
+host, i0.img2ipfs.com, 代理网站
+host, img.321cdn.com, 代理网站
+host, img.cdn1.vip, 代理网站
+host, cdn.staticstack.net, 代理网站
+host, cdn3.ldstatic.com, 代理网站
+host, cdn-image.fplayer.cc, 代理网站
+host, cdn.hdcdn.online, 代理网站
+host, i.hdcdn.online, 代理网站
+host-suffix, cdn202511.com, 代理网站
+host-suffix, cdn202528.com, 代理网站
+
+# ==================== 小说 / 论坛 / 其他未归类 ====================
+host, 69shuba.tw, 代理网站
+host, bbs.binmt.cc, 代理网站
+host, laowang.vip, 代理网站
+host, wiki.repcz.link, 代理网站
+host, alicesw.com, 代理网站
+host, wataa.io, 代理网站
+host, bad.news, 代理网站
+host, textmechanic.com, 代理网站
+host, yfamilys.com, 代理网站
+host, www.mrds66.com, 代理网站
 host, www.tgcng.com, 代理网站
-ip-cidr, 23.225.172.0/16, 代理网站
+host, auth.novelia.cc, 代理网站
+host, n.novelia.cc, 代理网站
+host, pixel24f001.xyz, 代理网站
+host, stc.utdstc.com, 代理网站
 host, mc.yandex.com, 代理网站
 host, mc.yandex.ru, 代理网站
-host, stc.utdstc.com, 代理网站
-host, dw.uptodown.com, 代理网站
 host, production2.errortrace.dev, 代理网站
-host, www.recaptcha.net, 代理网站
-host, accounts.pixiv.net, 代理网站
+host, cf.090227.xyz, 代理网站
+host, stats.nextinnet.com, 代理网站
+host-suffix, hxcy.top, 代理网站
 
-
-host-suffix, gamer.com.tw, 代理网站
-host, x.com, 代理网站
+# ==================== 特定 IP 段 ====================
+ip-cidr, 23.225.172.0/16, 代理网站
