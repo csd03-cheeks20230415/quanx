@@ -1,77 +1,75 @@
+# ==================== 前端公共库 / CDN 节点 (国内常态化阻断/污染) ====================
+host-suffix, jsdelivr.net, dns污染
+host, code.jquery.com, dns污染
+host, maxcdn.bootstrapcdn.com, dns污染
+host, unpkg.com, dns污染
+host, use.fontawesome.com, dns污染
+
+# ==================== 技术 / 开源 / 博客 / DNS ====================
+host-suffix, github.io, dns污染
+host, cloudflare-dns.com, dns污染
+host-suffix, cloudflarestorage.com, dns污染
+host, ocsp.digicert.com, dns污染
+host, ocsps.ssl.com, dns污染
+host, api.ip.sb, dns污染
+host, www.myip.com, dns污染
+host, weavatar.com, dns污染
+host, static.zdassets.com, dns污染
+host-suffix, y4er.com, dns污染
+host-suffix, boce.com, dns污染
+
+# ==================== 动漫 / 小说 / 同人社区 (ACGN) ====================
+host-suffix, bahamut.com.tw, dns污染
+host-suffix, 18comic.vip, dns污染
+host-suffix, picacomic.com, dns污染
+host, manhuapica.com, dns污染
+host, bikawebapp.com, dns污染
+host, p.69shuba.tw, dns污染
+host-suffix, wnacg.com, dns污染
+host, wnacg01.link, dns污染
+host-suffix, bbs.south-plus.org, dns污染
+host-suffix, south-plus.net, dns污染
+host, www.blue-plus.net, dns污染
+host, www.level-plus.net, dns污染
+host, cdn.aiqingyu1314.com, dns污染
+host, raw.kiko-play-niptan.one, dns污染
+
+# ==================== 成人内容 / 绅士 (H-Anime / Video) ====================
+host-suffix, hanime1.me, dns污染
+host-suffix, onlyhentaistuff.com, dns污染
+host-suffix, xvideos-cdn.com, dns污染
+host-suffix, spankbang.com, dns污染
+host-suffix, phncdn.com, dns污染
+host-suffix, sb-cd.com, dns污染
+host-suffix, hembed.com, dns污染
+host-suffix, sis001.com, dns污染
+host, hsex.men, dns污染
+
+# ==================== 网络网盘 / 图床 / 文件托管 ====================
+host-suffix, gofile.io, dns污染
+host, files.catbox.moe, dns污染
+host, i.ibb.co, dns污染
+host, img2.pixhost.to, dns污染
+host, t.tutu.to, dns污染
+host-suffix, file.myqcloud.com, dns污染
+
+# ==================== 广告 / 追踪 / 未知小类 ====================
+host-suffix, poweredby.jads.co, dns污染
+host-suffix, macapi1.com, dns污染
+host-suffix, macapi2.com, dns污染
+host-suffix, ffuavtlceo.in, dns污染
+host-suffix, ofbzicopvt.in, dns污染
+host-suffix, go2778.com, dns污染
 host, api.sprig.com, dns污染
 host, as.mr, dns污染
 host, c.ptgncdn.com, dns污染
-host, cdn.aiqingyu1314.com, dns污染
-host, cdn.jsdelivr.net, dns污染
 host, cdn.plyr.io, dns污染
-host, fastly.jsdelivr.net, dns污染
 host, file.delicloud.com, dns污染
-host, hsex.men, dns污染
-host, ocsps.ssl.com, dns污染
-host, raw.kiko-play-niptan.one, dns污染
-
-host, static.zdassets.com, dns污染
 host, tcp.signfuli.com, dns污染
 host, ubocs.no-mad-world.club, dns污染
-host, use.fontawesome.com, dns污染
-host, www.guaiguaizhanhao.com, dns污染
-host-suffix, 18comic.vip, dns污染
-host-suffix, aj1987.online, dns污染
-host-suffix, amemv.com, dns污染
-
-host-suffix, bbs.south-plus.org, dns污染
-host-suffix, boce.com, dns污染
-host-suffix, ecombdapi.com, dns污染
-host-suffix, file.myqcloud.com, dns污染
-host-suffix, gofile.io, dns污染
-host-suffix, hanime1.me, dns污染
-
-host-suffix, hdcdn.online, dns污染
-
-host-suffix, hembed.com, dns污染
-host-suffix, jmapp3.cc, dns污染
-host-suffix, macapi1.com, dns污染
-host-suffix, macapi2.com, dns污染
-
-host-suffix, ofbzicopvt.in, dns污染
-host-suffix, phncdn.com, dns污染
-host-suffix, picacomic.com, dns污染
-host-suffix, poweredby.jads.co, dns污染
-host-suffix, sb-cd.com, dns污染
-host-suffix, sis001.com, dns污染
-
-host-suffix, south-plus.net, dns污染
-host-suffix, spankbang.com, dns污染
-
-host-suffix, wnacg.com, dns污染
-host-suffix, xvideos-cdn.com, dns污染
-host, files.catbox.moe, dns污染
-
-host-suffix, github.io, dns污染
-host-suffix, ffuavtlceo.in, dns污染
-host-suffix, go2778.com, dns污染
-
-host, cloudflare-dns.com, dns污染
-host, wnacg01.link, dns污染
-host, www.myip.com, dns污染
-host, manhuapica.com, dns污染
-host, ocsp.digicert.com, dns污染
-host, p.69shuba.tw, dns污染
-host, www.blue-plus.net, dns污染
 host, www.cdngwc.club, dns污染
-host-suffix, cloudflarestorage.com, dns污染
-host, hl1.onlyhentaistuff.com, dns污染
-host, www.onlyhentaistuff.com, dns污染
-host-suffix, 127.net, dns污染
-host, bikawebapp.com, dns污染
-host, t.tutu.to, dns污染
-host-suffix, y4er.com, dns污染
-host, unpkg.com, dns污染
-host, weavatar.com, dns污染
+host, www.guaiguaizhanhao.com, dns污染
+host-suffix, jmapp3.cc, dns污染
+
+# ==================== 特定 IP 段 ====================
 ip-cidr, 174.127.195.0/16, dns污染
-host, code.jquery.com, dns污染
-host, maxcdn.bootstrapcdn.com, dns污染
-host-suffix, bahamut.com.tw, dns污染
-host, www.level-plus.net, dns污染
-host, i.ibb.co, dns污染
-host, img2.pixhost.to, dns污染
