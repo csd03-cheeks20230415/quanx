@@ -31,6 +31,7 @@ host-suffix, itunes.com, 国外直连网站
 
 
 
-
+host-suffix, windowsupdate.com, 国外直连网站
+host, apple-relay.fastly-edge.com, 国外直连网站
 host-suffix, adtidy.org, 国外直连网站
 host-suffix, adguard.org, 国外直连网站
