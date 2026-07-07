@@ -1,37 +1,47 @@
+# ==================== IP 与 隐私泄漏检测 (直连以获取真实IP) ====================
 host, api.ip.sb, 国外直连网站
-
-host, i0.wp.com, 国外直连网站
-host, www.paypalobjects.com, 国外直连网站
-host, yandex.yandds.com, 国外直连网站
-host-suffix, apple.com, 国外直连网站
-host-suffix, bing.com, 国外直连网站
-host-suffix, bing.net, 国外直连网站
-host-suffix, bitwarden.com, 国外直连网站
-host-suffix, bitwarden.net, 国外直连网站
-host-suffix, byteimg.com, 国外直连网站
-host-suffix, cdn-apple.com, 国外直连网站
-host-suffix, cloudflare.com, 国外直连网站
-host-suffix, cloudflareinsights.com, 国外直连网站
-host-suffix, icloud.com, 国外直连网站
-host-suffix, icloud.com.cn, 国外直连网站
 host-suffix, ipleak.net, 国外直连网站
-host-suffix, live.com, 国外直连网站
-host-suffix, loli.net, 国外直连网站
-host-suffix, microsoft.com, 国外直连网站
-host-suffix, paypal.com, 国外直连网站
-host-suffix, postimgs.org, 国外直连网站
-host-wildcard, *.cc, 国外直连网站
-host-wildcard, *.moe, 国外直连网站
-host-wildcard, *.ru, 国外直连网站
-host-wildcard, *.site, 国外直连网站
-host-wildcard, *.xyz, 国外直连网站
-host-suffix, mzstatic.com,国外直连网站  #苹果服务器
+
+# ==================== 苹果生态 (Apple) ====================
+host-suffix, apple.com, 国外直连网站
+host-suffix, cdn-apple.com, 国外直连网站
+host-suffix, icloud.com, 国外直连网站
 host-suffix, icloud-content.com, 国外直连网站
 host-suffix, itunes.com, 国外直连网站
-
-
-
-host-suffix, windowsupdate.com, 国外直连网站
+host-suffix, mzstatic.com, 国外直连网站
+# 苹果私密转送 (若设备提示私密转送不可用，请将此行删去或改走代理)
 host, apple-relay.fastly-edge.com, 国外直连网站
-host-suffix, adtidy.org, 国外直连网站
+
+# ==================== 微软 / 必应 (Microsoft / Bing) ====================
+host-suffix, microsoft.com, 国外直连网站
+host-suffix, live.com, 国外直连网站
+host-suffix, windowsupdate.com, 国外直连网站
+host-suffix, bing.com, 国外直连网站
+host-suffix, bing.net, 国外直连网站
+
+# ==================== 密码管理 (Bitwarden) ====================
+host-suffix, bitwarden.com, 国外直连网站
+host-suffix, bitwarden.net, 国外直连网站
+
+# ==================== 网络安全 / 广告防护 ====================
+host-suffix, cloudflare.com, 国外直连网站
+host-suffix, cloudflareinsights.com, 国外直连网站
 host-suffix, adguard.org, 国外直连网站
+host-suffix, adtidy.org, 国外直连网站
+
+# ==================== 金融 / 支付 (PayPal) ====================
+host-suffix, paypal.com, 国外直连网站
+host, www.paypalobjects.com, 国外直连网站
+
+# ==================== 图床 / 博客 / 搜索 ====================
+host, i0.wp.com, 国外直连网站
+host, yandex.yandds.com, 国外直连网站
+host-suffix, loli.net, 国外直连网站
+host-suffix, postimgs.org, 国外直连网站
+
+# ==================== 安全的境外国家/个性顶级域名 ====================
+host-wildcard, *.ru, 国外直连网站
+host-wildcard, *.moe, 国外直连网站
+host-wildcard, *.cc, 国外直连网站
+host-wildcard, *.site, 国外直连网站
+host-wildcard, *.xyz, 国外直连网站
