@@ -152,3 +152,14 @@ host, img.dlsite.jp, 代理网站
 host, www.dlsite.com, 代理网站
 host, www.tgcng.com, 代理网站
 ip-cidr, 23.225.172.0/16, 代理网站
+host, mc.yandex.com, 代理网站
+host, mc.yandex.ru, 代理网站
+host, stc.utdstc.com, 代理网站
+host, dw.uptodown.com, 代理网站
+host, production2.errortrace.dev, 代理网站
+host, www.recaptcha.net, 代理网站
+host, accounts.pixiv.net, 代理网站
+
+
+host-suffix, gamer.com.tw, 代理网站
+host, x.com, 代理网站
