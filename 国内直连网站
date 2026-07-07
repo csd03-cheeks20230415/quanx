@@ -23,7 +23,7 @@ host-suffix, lepudding.com, 国内直连网站
 
 # ==================== 腾讯 / 微信 ====================
 host-suffix, qq.com, 国内直连网站
-
+host-suffix, file.myqcloud.com, 国内直连网站
 # ==================== 百度 ====================
 host-suffix, baidu.com, 国内直连网站
 
