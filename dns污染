@@ -70,3 +70,8 @@ host, unpkg.com, dns污染
 host, weavatar.com, dns污染
 ip-cidr, 174.127.195.0/16, dns污染
 host, code.jquery.com, dns污染
+host, maxcdn.bootstrapcdn.com, dns污染
+host-suffix, bahamut.com.tw, dns污染
+host, www.level-plus.net, dns污染
+host, i.ibb.co, dns污染
+host, img2.pixhost.to, dns污染
