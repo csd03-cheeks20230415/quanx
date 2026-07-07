@@ -69,3 +69,4 @@ host-suffix, y4er.com, dns污染
 host, unpkg.com, dns污染
 host, weavatar.com, dns污染
 ip-cidr, 174.127.195.0/16, dns污染
+host, code.jquery.com, dns污染
