@@ -115,6 +115,6 @@ host-suffix, fjszgjj.com, 国内直连网站
 host, m.52qianmei.com, 国内直连网站
 host, afs.ampaeservices.com, 国内直连网站
 host-suffix, 127.net, 国内直连网站
-
+host, jx.wuzhoupai.com, 国内直连网站
 # ==================== 境外监控/服务 (按需保留) ====================
 host-suffix, browser-intake-us5-datadoghq.com, 国内直连网站
