@@ -49,6 +49,8 @@ host-suffix, fqnovelpic.com, 国内直连网站
 host, render.ecombdpage.com, 国内直连网站
 host, pitaya.bytedance.com, 国内直连网站
 host, doubao.com, 国内直连网站
+host-suffix, amemv.com, 国内直连网站
+host-suffix, ecombdapi.com, 国内直连网站
 
 # ==================== 京东 ====================
 host-suffix, jd.com, 国内直连网站
@@ -112,6 +114,7 @@ host-suffix, 10010.com, 国内直连网站
 host-suffix, fjszgjj.com, 国内直连网站
 host, m.52qianmei.com, 国内直连网站
 host, afs.ampaeservices.com, 国内直连网站
+host-suffix, 127.net, 国内直连网站
 
 # ==================== 境外监控/服务 (按需保留) ====================
 host-suffix, browser-intake-us5-datadoghq.com, 国内直连网站
