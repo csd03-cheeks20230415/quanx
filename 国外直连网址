@@ -45,3 +45,6 @@ host-wildcard, *.moe, 国外直连网站
 host-wildcard, *.cc, 国外直连网站
 host-wildcard, *.site, 国外直连网站
 host-wildcard, *.xyz, 国外直连网站
+host-wildcard, *.mom, 国外直连网站
+host-wildcard, *.store, 国外直连网站
+host-wildcard, *.online, 国外直连网站
