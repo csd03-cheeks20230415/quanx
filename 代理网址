@@ -153,3 +153,41 @@ host-suffix, hxcy.top, 代理网站
 
 # ==================== 特定 IP 段 ====================
 ip-cidr, 23.225.172.0/16, 代理网站
+
+###
+host, image.233233.fun, 代理网站
+host, storage1.go2778.com, 代理网站
+host, storage-b.go2778.com, 代理网站
+host, p.69shuba.tw, 代理网站
+host, v16.toutiao50.com, 代理网站
+host, nim.nosdn.127.net, 代理网站
+host, xcdn.aiqingyu1314.com, 代理网站
+host, jx.wuzhoupai.com, 代理网站
+host-suffix, facebook.com, 代理网站
+host, x-ero-anime.com, 代理网站
+host-suffix, patreon.com, 代理网站
+host, www.patreon.com, 代理网站
+host, pektino.com, 代理网站
+host, www.alicesw.com, 代理网站
+ip-cidr, 1.1.1.1/32, 代理网站
+host, www.google.com.hk, 代理网站
+host, 18comic.vip, 代理网站
+host, cdn-msp.jmapiproxy1.cc, 代理网站
+host, www.cdnutc.me, 代理网站
+host, fengyue.ai, 代理网站
+host, cdn-msp3.jmapiproxy1.cc, 代理网站
+host, cdn-msp3.jmdanjonproxy.vip, 代理网站
+host, jmapp3.cc, 代理网站
+host, www.cdngwc.club, 代理网站
+host, www.cdnhjk.net, 代理网站
+host, oauth.secure.pixiv.net, 代理网站
+host, img.lvv2.com, 代理网站
+host, sukebei.nyaa.si, 代理网站
+host-suffix, htv-proto-ozma.com, 代理网站
+host-suffix, highwinds-cdn.com, 代理网站
+host, auth.hanime.tv, 代理网站
+host, api.iconify.design, 代理网站
+host-suffix, freeanimehentai.net, 代理网站
+host-suffix, unisvg.com, 代理网站
+host, www.hacg.mom, 代理网站
+
