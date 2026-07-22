@@ -44,7 +44,8 @@ host-suffix, sb-cd.com, dns污染
 host-suffix, hembed.com, dns污染
 host-suffix, sis001.com, dns污染
 host, hsex.men, dns污染
-
+host-suffix, nhentai.net, dns污染
+host-suffix, qy0.ru, dns污染
 # ==================== 网络网盘 / 图床 / 文件托管 ====================
 host-suffix, gofile.io, dns污染
 host, files.catbox.moe, dns污染
@@ -73,3 +74,11 @@ host-suffix, jmapp3.cc, dns污染
 
 # ==================== 特定 IP 段 ====================
 ip-cidr, 174.127.195.0/16, dns污染
+
+
+
+###
+host-suffix, simplesvg.com, dns污染
+host-suffix, me3gc.com, dns污染
+host, www.cdngwc.net, dns污染
+host, www.cloudflare-terms-of-service-abuse.com, dns污染
