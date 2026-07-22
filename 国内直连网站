@@ -106,6 +106,7 @@ host, www.423down.com, 国内直连网站
 # ==================== 居住 / 生活 / 其他 ====================
 host-suffix, 58.com, 国内直连网站
 host-suffix, anjuke.com, 国内直连网站
+host-suffix, ajkimg.com, 国内直连网站
 host-suffix, qianji.app, 国内直连网站
 host-suffix, qianjiapp.com, 国内直连网站
 host-suffix, delicloud.com, 国内直连网站
@@ -118,3 +119,8 @@ host-suffix, 127.net, 国内直连网站
 host, jx.wuzhoupai.com, 国内直连网站
 # ==================== 境外监控/服务 (按需保留) ====================
 host-suffix, browser-intake-us5-datadoghq.com, 国内直连网站
+
+#SF轻小说
+host-suffix, sfacg.com, 国内直连网站
+#美团
+host-suffix, meituan.net, 国内直连网站
