@@ -297,3 +297,11 @@ host, xb2ea56yy1vbe8xwaqhnwafvdbov22vj.v1d.pkoplink.com, reject
 host, conf-darwin.xycdn.com, reject
 host, natdetection.onethingpcs.com, reject
 host, localhost.sangfor.com.cn, reject
+
+
+
+###
+host-suffix, pangle.io, reject
+host, zzyqkeniw.com, reject
+host, script-center.bad.news, reject
+host, e.bad.news, reject
