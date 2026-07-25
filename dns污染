@@ -23,6 +23,8 @@ host-suffix, 18comic.vip, dns污染
 host-suffix, picacomic.com, dns污染
 host, manhuapica.com, dns污染
 host, bikawebapp.com, dns污染
+#69书吧 电信不可连
+host, 69shuba.tw, dns污染
 host, p.69shuba.tw, dns污染
 host-suffix, wnacg.com, dns污染
 host, wnacg01.link, dns污染
@@ -30,7 +32,7 @@ host-suffix, bbs.south-plus.org, dns污染
 host-suffix, south-plus.net, dns污染
 host, www.blue-plus.net, dns污染
 host, www.level-plus.net, dns污染
-host, cdn.aiqingyu1314.com, dns污染
+
 host, raw.kiko-play-niptan.one, dns污染
 
 # ==================== 成人内容 / 绅士 (H-Anime / Video) ====================
@@ -51,7 +53,6 @@ host, files.catbox.moe, dns污染
 host, i.ibb.co, dns污染
 host, img2.pixhost.to, dns污染
 host, t.tutu.to, dns污染
-host-suffix, file.myqcloud.com, dns污染
 
 # ==================== 广告 / 追踪 / 未知小类 ====================
 host-suffix, poweredby.jads.co, dns污染
@@ -64,12 +65,10 @@ host, api.sprig.com, dns污染
 host, as.mr, dns污染
 host, c.ptgncdn.com, dns污染
 host, cdn.plyr.io, dns污染
-host, file.delicloud.com, dns污染
 host, tcp.signfuli.com, dns污染
 host, ubocs.no-mad-world.club, dns污染
-host, www.cdngwc.club, dns污染
 host, www.guaiguaizhanhao.com, dns污染
-host-suffix, jmapp3.cc, dns污染
+
 
 # ==================== 特定 IP 段 ====================
 ip-cidr, 174.127.195.0/16, dns污染
