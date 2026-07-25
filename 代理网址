@@ -50,7 +50,7 @@ host, erolns.blogspot.com, 代理网站
 host-suffix, gamer.com.tw, 代理网站
 host-suffix, bgm.tv, 代理网站
 host-suffix, bangumi.tv, 代理网站
-host-suffix, pixv.net, 代理网站
+host-suffix, pixiv.net, 代理网站
 host-suffix, pximg.net, 代理网站
 host, accounts.pixiv.net, 代理网站
 host, app-api.pixiv.net, 代理网站
@@ -129,7 +129,7 @@ host-suffix, cdn202511.com, 代理网站
 host-suffix, cdn202528.com, 代理网站
 
 # ==================== 小说 / 论坛 / 其他未归类 ====================
-host, 69shuba.tw, 代理网站
+
 host, bbs.binmt.cc, 代理网站
 host, laowang.vip, 代理网站
 host, wiki.repcz.link, 代理网站
@@ -158,7 +158,7 @@ ip-cidr, 23.225.172.0/16, 代理网站
 host, image.233233.fun, 代理网站
 host, storage1.go2778.com, 代理网站
 host, storage-b.go2778.com, 代理网站
-host, p.69shuba.tw, 代理网站
+
 host, v16.toutiao50.com, 代理网站
 host, nim.nosdn.127.net, 代理网站
 host, xcdn.aiqingyu1314.com, 代理网站
@@ -166,7 +166,6 @@ host, jx.wuzhoupai.com, 代理网站
 host-suffix, facebook.com, 代理网站
 host, x-ero-anime.com, 代理网站
 host-suffix, patreon.com, 代理网站
-host, www.patreon.com, 代理网站
 host, pektino.com, 代理网站
 host, www.alicesw.com, 代理网站
 ip-cidr, 1.1.1.1/32, 代理网站
