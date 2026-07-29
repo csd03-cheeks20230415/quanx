@@ -1,15 +1,16 @@
-# ==================== 基础、通用与顶级域名 ====================
+#顶级域名
 host-wildcard, *.cn, 国内直连网站
-ip-asn, 132203, 国内直连网站
-user-agent, WeChat*, 国内直连网站
-host, cdn.ampproject.org, 国内直连网站
-host, registry.npmmirror.com, 国内直连网站
-host, status.rapidssl.com, 国内直连网站
+
+#站长之家
 host-suffix, chinaz.com, 国内直连网站
+
+#jsDelivr 的国内镜像加速站
 host-suffix, jsdmirror.com, 国内直连网站
+
+#和风天气
 host-suffix, qweather.com, 国内直连网站
 
-# ==================== 阿里巴巴 / 支付宝 / 饿了么 / 高德 ====================
+#阿里巴巴 / 支付宝 / 饿了么 / 高德
 host-suffix, alicdn.com, 国内直连网站
 host-suffix, alipay.com, 国内直连网站
 host-suffix, alipayobjects.com, 国内直连网站
@@ -20,14 +21,18 @@ host-suffix, amap.com, 国内直连网站
 host-suffix, autonavi.com, 国内直连网站
 host-suffix, aimap.com, 国内直连网站
 host-suffix, lepudding.com, 国内直连网站
+host, registry.npmmirror.com, 国内直连网站
 
-# ==================== 腾讯 / 微信 ====================
+#腾讯 / 微信
 host-suffix, qq.com, 国内直连网站
 host-suffix, file.myqcloud.com, 国内直连网站
-# ==================== 百度 ====================
+user-agent, WeChat*, 国内直连网站
+ip-asn, 132203, 国内直连网站
+
+#百度
 host-suffix, baidu.com, 国内直连网站
 
-# ==================== 字节跳动 / 抖音 / 头条 / 番茄 ====================
+#字节跳动 / 抖音 / 头条 / 番茄
 host-suffix, zijieapi.com, 国内直连网站
 host-suffix, bytedanceapi.com, 国内直连网站
 host-suffix, bytednsdoc.com, 国内直连网站
@@ -52,42 +57,42 @@ host, doubao.com, 国内直连网站
 host-suffix, amemv.com, 国内直连网站
 host-suffix, ecombdapi.com, 国内直连网站
 
-# ==================== 京东 ====================
+#京东
 host-suffix, jd.com, 国内直连网站
 host-suffix, jdpay.com, 国内直连网站
 host-suffix, 360buyimg.com, 国内直连网站
 
-# ==================== 哔哩哔哩 (Bilibili) ====================
+#Bilibili
 host-suffix, bilibili.com, 国内直连网站
 host-suffix, biliapi.com, 国内直连网站
 host-suffix, biliapi.net, 国内直连网站
 host-suffix, bilivideo.com, 国内直连网站
 host-suffix, hdslb.com, 国内直连网站
 
-# ==================== 快手 ====================
+#快手
 host-suffix, kwaizt.com, 国内直连网站
 host-suffix, kwd.inkuai.com, 国内直连网站
 host-suffix, kwimgs.com, 国内直连网站
 
-# ==================== 华为 ====================
+#华为
 host-suffix, huawei.com, 国内直连网站
 host-suffix, hicloud.com, 国内直连网站
 host-suffix, dbankcdn.com, 国内直连网站
 
-# ==================== 拼多多 / 小红书 / 美团点评 ====================
+#拼多多 / 小红书 / 美团点评
 host-suffix, pddpic.com, 国内直连网站
 host-suffix, xiaohongshu.com, 国内直连网站
 host-suffix, xhscdn.com, 国内直连网站
 host-suffix, dpfile.com, 国内直连网站
 
-# ==================== 银行 / 金融 / 平安壹钱包 ====================
+#银行 / 金融 / 平安壹钱包
 host-suffix, ccb.com, 国内直连网站
 host-suffix, yqb.com, 国内直连网站
 host-suffix, yqbimg.net, 国内直连网站
 host-suffix, 1qianbao.com, 国内直连网站
 host, ads.chinaums.com, 国内直连网站
 
-# ==================== 影视 / 动漫 / 小说 / 社区 ====================
+#影视 / 动漫 / 小说 / 社区
 host, cupfox.app, 国内直连网站
 host, web.agespa-01.com, 国内直连网站
 host, ageapi.omwjhz.com, 国内直连网站
@@ -103,7 +108,7 @@ host-suffix, zhimg.com, 国内直连网站
 host-suffix, weibo.com, 国内直连网站
 host, www.423down.com, 国内直连网站
 
-# ==================== 居住 / 生活 / 其他 ====================
+#居住 / 生活 / 其他
 host-suffix, 58.com, 国内直连网站
 host-suffix, anjuke.com, 国内直连网站
 host-suffix, ajkimg.com, 国内直连网站
@@ -117,7 +122,8 @@ host, m.52qianmei.com, 国内直连网站
 host, afs.ampaeservices.com, 国内直连网站
 host-suffix, 127.net, 国内直连网站
 host, jx.wuzhoupai.com, 国内直连网站
-# ==================== 境外监控/服务 (按需保留) ====================
+
+#境外监控/服务
 host-suffix, browser-intake-us5-datadoghq.com, 国内直连网站
 
 #SF轻小说
