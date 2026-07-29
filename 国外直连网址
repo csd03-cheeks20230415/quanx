@@ -23,8 +23,7 @@ host-suffix, bitwarden.com, 国外直连网站
 host-suffix, bitwarden.net, 国外直连网站
 
 # ==================== 网络安全 / 广告防护 ====================
-host-suffix, cloudflare.com, 国外直连网站
-host-suffix, cloudflareinsights.com, 国外直连网站
+
 host-suffix, adguard.org, 国外直连网站
 host-suffix, adtidy.org, 国外直连网站
 
