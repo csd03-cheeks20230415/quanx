@@ -1,4 +1,4 @@
-# ==================== 公共广告 / 分析 / 统计 (基础) ====================
+# ==================== 1. 公共广告 / 分析 / 统计 (基础/跨平台) ====================
 host-suffix, applovin.com, reject
 host-suffix, crashlytics.com, reject
 host-suffix, umeng.com, reject
@@ -15,7 +15,7 @@ host, www.googletagmanager.com, reject
 host, www.gravatar.com, reject
 host, appdata.q1.com, reject
 
-# ==================== 谷歌 / 微软 / 苹果 ====================
+# ==================== 2. 谷歌 / 微软 / 苹果 ====================
 host, api-adservices.apple.com, reject
 host, ca.iadsdk.apple.com, reject
 host, iadsdk.apple.com, reject
@@ -25,7 +25,7 @@ host, c.bing.com, reject
 host, nexus.officeapps.live.com, reject
 host, nexusrules.officeapps.live.com, reject
 
-# ==================== 阿里巴巴 / 蚂蚁 / 菜鸟 ====================
+# ==================== 3. 阿里巴巴 / 蚂蚁 / 菜鸟 / 飞猪 ====================
 host, 50kgi6.tdum.alibaba.com, reject
 host, 6vjgfv.tdum.alibaba.com, reject
 host, abtest.alibaba.com, reject
@@ -66,7 +66,7 @@ host, admonitor-feedback.cn-hangzhou.log.aliyuncs.com, reject
 host, alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com, reject
 host, arms-retcode.aliyuncs.com, reject
 host, beacon-api.aliyuncs.com, reject
-host, haa3j9plpi-default-cn.rum.aliyuncs.com, reject
+host, haa3j9plpi-defaultcn.rum.aliyuncs.com, reject
 host, nbnetflow-reply-log.cn-wulanchabu.log.aliyuncs.com, reject
 host, report-user-online-event.cn-wulanchabu.log.aliyuncs.com, reject
 host, gm.mmstat.com, reject
@@ -74,7 +74,7 @@ host, s-gm.mmstat.com, reject
 host, wgo.mmstat.com, reject
 host, px.ucweb.com, reject
 
-# ==================== 腾讯 / 微信 ====================
+# ==================== 4. 腾讯 / 微信 ====================
 host, appcfg.v.qq.com, reject
 host, bugly.qq.com, reject
 host, c3.gdt.qq.com, reject
@@ -118,7 +118,7 @@ host, wxa.wxs.qq.com, reject
 host, wximg.wxs.qq.com, reject
 host, wxsmw.wxs.qq.com, reject
 
-# ==================== 百度 ====================
+# ==================== 5. 百度 (Baidu) ====================
 host, afdconf.baidu.com, reject
 host, als.baidu.com, reject
 host, anti-bot.baidu.com, reject
@@ -148,7 +148,8 @@ host, s.bdstatic.com, reject
 host, sofire.bdstatic.com, reject
 host, zz.bdstatic.com, reject
 
-# ==================== 字节跳动 / 抖音 / 番茄小说 ====================
+# ==================== 6. 字节跳动 / 抖音 / 番茄小说 / 穿山甲 Pangle ====================
+host-suffix, pangle.io, reject
 host, ads3-normal-hl.zijieapi.com, reject
 host, ads5-normal-hl.zijieapi.com, reject
 host, ads5-normal-lq.zijieapi.com, reject
@@ -189,7 +190,7 @@ host, tobapplog.ctobsnssdk.com, reject
 host, toblog.ctobsnssdk.com, reject
 host, dig.bdurl.net, reject
 
-# ==================== 京东 ====================
+# ==================== 7. 京东 (JD) ====================
 host, blackhole.m.jd.com, reject
 host, ccc-x.jd.com, reject
 host, chat1.jd.com, reject
@@ -206,7 +207,7 @@ host, sgm-w.jd.com, reject
 host, uranus.jd.com, reject
 host, img2.360buyimg.com, reject
 
-# ==================== 新浪微博 ====================
+# ==================== 8. 新浪微博 (Weibo) ====================
 host, adstrategy.biz.weibo.com, reject
 host, sdkaction.biz.weibo.com, reject
 host, sdkclick.biz.weibo.com, reject
@@ -216,7 +217,7 @@ host, bootpreload.uve.weibo.com, reject
 host, sdkapp.uve.weibo.com, reject
 host, wbapp.uve.weibo.com, reject
 
-# ==================== 快手 ====================
+# ==================== 9. 快手 (Kuaishou) ====================
 host, open.e.kuaishou.com, reject
 host, open.kuaishouzt.com, reject
 host, api.kwaizt.com, reject
@@ -235,7 +236,7 @@ host, kuaishou-mipdx.cn.miaozhen.com, reject
 host, v4-ad.adukwai.com, reject
 host, v5-ad.adukwai.com, reject
 
-# ==================== 小红书 ====================
+# ==================== 10. 小红书 (Xiaohongshu) ====================
 host, apm-native.xiaohongshu.com, reject
 host, crash.xiaohongshu.com, reject
 host, flash.xiaohongshu.com, reject
@@ -243,7 +244,7 @@ host, lng.xiaohongshu.com, reject
 host, spider-tracker.xiaohongshu.com, reject
 host, t2.xiaohongshu.com, reject
 
-# ==================== 高德 / 美团 / 哔哩哔哩 / 知乎 ====================
+# ==================== 11. 高德 / 美团 / 哔哩哔哩 / 知乎 ====================
 host, adashx.ut.amap.com, reject
 host, dualstack-logs.amap.com, reject
 host, logs.amap.com, reject
@@ -252,12 +253,12 @@ host, httpdns.meituan.com, reject
 host, data.bilibili.com, reject
 host, sugar.zhihu.com, reject
 
-# ==================== 拼多多 ====================
+# ==================== 12. 拼多多 (Pinduoduo) ====================
 host, cmta.yangkeduo.com, reject
 host, ta.pinduoduo.com, reject
 host, th.pinduoduo.com, reject
 
-# ==================== 推送 / 手机卡运营商 / 其他应用 ====================
+# ==================== 13. 第三方推送 / 运营商认证 / 金融工具 ====================
 host, sdk.open.talk.gepush.com, reject
 host, sdk.open.talk.getui.com, reject
 host, sdk-open-phone.getui.com, reject
@@ -276,7 +277,7 @@ host, adv.ccb.com, reject
 host, ads.cup.com.cn, reject
 host, dw-online.ksosoft.com, reject
 
-# ==================== 广告聚合 SDK 拦截 (联合优化) ====================
+# ==================== 14. 聚合广告 SDK / 追踪 / 弹窗与高危域名 ====================
 host-suffix, anythinktech.com, reject
 host-suffix, pica-ad-api.diwodiwo.xyz, reject
 host, adx-cfg-u1.ubixioe.com, reject
@@ -297,11 +298,6 @@ host, xb2ea56yy1vbe8xwaqhnwafvdbov22vj.v1d.pkoplink.com, reject
 host, conf-darwin.xycdn.com, reject
 host, natdetection.onethingpcs.com, reject
 host, localhost.sangfor.com.cn, reject
-
-
-
-###
-host-suffix, pangle.io, reject
 host, zzyqkeniw.com, reject
 host, script-center.bad.news, reject
 host, e.bad.news, reject
