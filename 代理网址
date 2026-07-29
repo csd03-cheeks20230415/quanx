@@ -7,7 +7,6 @@ host-suffix, googleusercontent.com, 代理网站
 host-suffix, googlevideo.com, 代理网站
 host-suffix, gstatic.com, 代理网站
 host-suffix, withgoogle.com, 代理网站
-host-suffix, googletagmanager.com, 代理网站
 host, dash.cloudflare.com, 代理网站
 
 # ==================== GitHub / 技术 / 独立社区 ====================
