@@ -7,7 +7,7 @@ host, use.fontawesome.com, dns污染
 
 # ==================== 技术 / 开源 / 博客 / DNS ====================
 host-suffix, github.io, dns污染
-host-suffix, cloudflarestorage.com, dns污染
+
 host, ocsp.digicert.com, dns污染
 host, ocsps.ssl.com, dns污染
 host, api.ip.sb, dns污染
