@@ -204,8 +204,7 @@ host-suffix, cdn202528.com, 代理网站
 host-suffix, highwinds-cdn.com, 代理网站
 
 #小说 / AI / 个人独立项目 / 未归类 API 
-host, alicesw.com, 代理网站
-host, www.alicesw.com, 代理网站
+host-suffix, alicesw.com, 代理网站
 host, wataa.io, 代理网站
 host, bad.news, 代理网站
 host, auth.novelia.cc, 代理网站
@@ -229,4 +228,3 @@ host, www.tgcng.com, 代理网站
 #海外数据中心 / 独立机房 IP 段 
 ##美国洛杉矶的 Multacom （一家老牌 IDC 服务器机房托管商）
 ip-cidr, 23.225.172.0/16, 代理网站
-
