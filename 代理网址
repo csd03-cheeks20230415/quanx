@@ -169,7 +169,7 @@ host, x-ero-anime.com, 代理网站
 host, laowang.vip, 代理网站
 
 #独立 MMD / 3D 二次元同人社区 (Iwara / Kemono / Moeli) 
-host-wildcard, *.iwara.tv, 代理网站
+;host-wildcard, *.iwara.tv, 代理网站
 host, mmdfans.net, 代理网站
 host, moeli-desu.com, 代理网站
 host, dy.moeazusa.app, 代理网站
