@@ -187,6 +187,7 @@ host-suffix, highwinds-cdn.com, 代理网站
 host, auth.hanime.tv, 代理网站
 host-suffix, cloudflare.com, 代理网站
 host-suffix, cloudflareinsights.com, 代理网站
+host-suffix, cloudflarestorage.com, 代理网站
 host, api.iconify.design, 代理网站
 host-suffix, freeanimehentai.net, 代理网站
 host-suffix, unisvg.com, 代理网站
