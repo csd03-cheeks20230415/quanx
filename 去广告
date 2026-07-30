@@ -288,13 +288,7 @@ host, sdktmp.hubcloud.com.cn, reject
 host, mlog.bigda.com, reject
 host, pixon.ads-pixiv.net, reject
 host, ttxyajs.data.kuiniuca.com, reject
-host, xahyh83yvg351sknaqhwwaptdjybkqnz.v1d.pkoplink.com, reject
-host, xa2v5n3v3b5tql7xaqhewaatd9j9cj7o.v1d.pkoplink.com, reject
-host, xb3xrs6v6gcnhsccaqhd1a7tdbhy7wer.v1d.pkoplink.com, reject
-host, xlmaw96y63t11fblaqhkoactdl77mcfb.v1d.pkoplink.com, reject
-host, xztp783y832k77x1aqh8fa7vd9gzcf71.v1d.pkoplink.com, reject
-host, xasmm56yanbc8s1waqhpwazvd98zfbhq.v1d.pkoplink.com, reject
-host, xb2ea56yy1vbe8xwaqhnwafvdbov22vj.v1d.pkoplink.com, reject
+host-suffix, v1d.pkoplink.com, reject
 host, conf-darwin.xycdn.com, reject
 host, natdetection.onethingpcs.com, reject
 host, localhost.sangfor.com.cn, reject
