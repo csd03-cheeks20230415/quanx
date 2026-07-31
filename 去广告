@@ -382,7 +382,6 @@ host, da.mmarket.com, reject
 host, da.statisticslinks.com, reject
 host, dataflow.biliapi.com, reject
 host, data-sdk-uuid-log.d.meituan.net, reject
-host, ddgksf2013.top, reject
 host, deductgreedyheadroom.com, reject
 host, default.exp-tas.com, reject
 host, deff.nelreports.net, reject
