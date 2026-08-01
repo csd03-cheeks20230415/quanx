@@ -156,10 +156,7 @@ host, ads5-normal-lq.zijieapi.com, reject
 host, feedback-c.zijieapi.com, reject
 host, mcs.zijieapi.com, reject
 host, mon.zijieapi.com, reject
-host, mssdk3-normal-hl.zijieapi.com, reject
-host, polaris3-normal-hl.zijieapi.com, reject
-host, polaris5-normal-hl.zijieapi.com, reject
-host, polaris5-normal-lq.zijieapi.com, reject
+host, mssdk3-normal-hl.zijieapi.com,
 host, saveu5-normal-lq.zijieapi.com, reject
 host, timon.zijieapi.com, reject
 host, tnc0-aliec2.zijieapi.com, reject
