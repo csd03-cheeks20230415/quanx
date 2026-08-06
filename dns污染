@@ -36,14 +36,12 @@ host, www.blue-plus.net, dns污染
 host, www.level-plus.net, dns污染
 host, raw.kiko-play-niptan.one, dns污染
 
-# ==================== 成人内容 / 绅士 (H-Anime / Video) ====================
-host-suffix, hanime1.me, dns污染
+# ==================== 成人内容 / 绅士  / Video) ====================
 host-suffix, onlyhentaistuff.com, dns污染
 host-suffix, xvideos-cdn.com, dns污染
 host-suffix, spankbang.com, dns污染
 host-suffix, phncdn.com, dns污染
 host-suffix, sb-cd.com, dns污染
-host-suffix, hembed.com, dns污染
 host-suffix, sis001.com, dns污染
 host-suffix, nhentai.net, dns污染
 host-suffix, qy0.ru, dns污染
