@@ -520,7 +520,6 @@ host, smartop-sdkapi-ipv6.jiguang.cn, reject
 host, snap.licdn.com, reject
 host, soa-vip-ssl.xunlei.com, reject
 host, softstat.kugou.com, reject
-host, spankbang.com, reject
 host, stat.download.xunlei.com, reject
 host, stat.tiara.kakao.com, reject
 host, stat.y.qq.com, reject
