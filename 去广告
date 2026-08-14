@@ -8,7 +8,6 @@ host, cdn.impactserving.com, reject
 host, deliver.ptgncdn.com, reject
 host, g.cn.miaozhen.com, reject
 host, px.effirst.com, reject
-host, static.cloudflareinsights.com, reject
 host, t.nettrck.store, reject
 host, www.google-analytics.com, reject
 host, www.googletagmanager.com, reject
