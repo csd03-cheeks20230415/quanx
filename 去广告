@@ -456,7 +456,6 @@ host, mwb.cn-shanghai.log.aliyuncs.com, reject
 host, mwb-fed.cn-shanghai.log.aliyuncs.com, reject
 host, nadvideo2.baidu.com, reject
 host, nc.gdt.qq.com, reject
-host, nhentai.net, reject
 host, nj.t.bcsp2p.baidu.com, reject
 host, node31.aizhantj.com, reject
 host, nvda.d2.sc.omtrdc.net, reject
